@@ -1,0 +1,17 @@
+.inverted,.nice{
+  background-color:black;
+  color:white;
+  font-weight:bold;
+
+}
+
+.inverted,.nice{
+    font-size:28px;
+    font-family:"Helvetica Times New Roman, Times, serif;"
+
+}
+
+.nice{
+    background-color:yellowgreen;
+    
+}
