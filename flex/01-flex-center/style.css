@@ -1,4 +1,17 @@
-div{
-    box-align;center;
-    
+.container{
+    display: flex;
+    background: blue;
+    height: 450px;
+    width: 450px;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    background: red;
+    height: 170px;
+    width: 170px;
+    font-size: 25px;
+    align-content: center;
+    text-align: center;
 }
